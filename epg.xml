@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="radiotransamerica">
+    <display-name lang="pt">Rede Transamérica</display-name>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  </channel>
+  <programme start="20210215000000 +0000" stop="20210215120000 +0000" channel="radiotransamerica">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia.</desc>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  </programme>
+  <programme start="20210215120000 +0000" stop="20210216000000 +0000" channel="radiotransamerica">
+    <title lang="pt">Os Segredos da Tia Cátia2</title>
+    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia2.</desc>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  </programme>
+  <programme start="20210216000000 +0000" stop="20210216120000 +0000" channel="radiotransamerica">
+    <title lang="pt">Os Segredos da Tia Cátia</title>
+    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia.</desc>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  </programme>
+  <programme start="20210216120000 +0000" stop="20210217000000 +0000" channel="radiotransamerica">
+    <title lang="pt">Os Segredos da Tia Cátia2</title>
+    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia2.</desc>
+    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  </programme>
+</tv>

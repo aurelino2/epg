@@ -1,27 +1,3604 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="radiotransamerica">
-    <display-name lang="pt">Rede Transamérica</display-name>
-    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+   <channel id="Antena1">
+    <display-name lang="pt">Antena 1</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio9505_1574106966.jpg" />
   </channel>
-  <programme start="20210215000000 +0000" stop="20210215120000 +0000" channel="radiotransamerica">
-    <title lang="pt">Os Segredos da Tia Cátia</title>
-    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia.</desc>
-    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  <channel id="AtlantidaFm">
+    <display-name lang="pt">Atlantida FM</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio9758_1439401374.jpg" />
+  </channel>
+  <channel id="BandFm">
+    <display-name lang="pt">Band FM</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" />
+  </channel>
+  <channel id="Energia97">
+    <display-name lang="pt">Energia97</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13065_1439401448.jpg" />
+  </channel>
+  <channel id="Gfm">
+    <display-name lang="pt">GFM</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13207_1574358597.png" />
+  </channel>
+  <channel id="LiderancaFm">
+    <display-name lang="pt">Liderança</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13690_1510752146.jpg" />
+  </channel>
+  <channel id="MassaFm">
+    <display-name lang="pt">Massa Fm</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio119934_1585313389.png" />
+  </channel>
+  <channel id="MetropolitanaFm">
+    <display-name lang="pt">Metropolitana</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13900_1526573355.JPG" />
+  </channel>
+  <channel id="MixFm">
+    <display-name lang="pt">MIX FM</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13955_1532353280.png" />
+  </channel>
+  <channel id="NovaBrasilFm">
+    <display-name lang="pt">Nova Brasil</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio14120_1607020762.jpg" />
+  </channel>
+  <channel id="ODiaFmRio">
+    <display-name lang="pt">FM o dia</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13213_1559217338.png" />
+  </channel>
+  <channel id="RadioRock">
+    <display-name lang="pt">89FM</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio31289_1439401796.jpg" />
+  </channel>
+  <channel id="98Live">
+    <display-name lang="pt">98Live</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio18495_1565281774.png" />
+  </channel>
+  <channel id="KissFm">
+    <display-name lang="pt">KissFm</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio13561_1560259438.png" />
+  </channel>
+  <channel id="SerraDourada">
+    <display-name lang="pt">SerraDourada</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio21223_1439401565.jpg" />
+  </channel>
+  <channel id="TransamericaLight">
+    <display-name lang="pt">TransamericaLight</display-name>
+    <icon src="https://img.radios.com.br/radio/lg/radio8831_1575289346.jpg" />
+  </channel>
+  <programme start="20210221000000 +0300" stop="20210221070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
   </programme>
-  <programme start="20210215120000 +0000" stop="20210216000000 +0000" channel="radiotransamerica">
-    <title lang="pt">Os Segredos da Tia Cátia2</title>
-    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia2.</desc>
-    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  <programme start="20210221070000 +0300" stop="20210221210000 +0300" channel="GFm">
+     <title lang="pt">Programação Musical</title>
   </programme>
-  <programme start="20210216000000 +0000" stop="20210216120000 +0000" channel="radiotransamerica">
-    <title lang="pt">Os Segredos da Tia Cátia</title>
-    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia.</desc>
-    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  <programme start="20210221210000 +0300" stop="20210222020000 +0300" channel="GFm">
+     <title lang="pt">Free Sound</title>
   </programme>
-  <programme start="20210216120000 +0000" stop="20210217000000 +0000" channel="radiotransamerica">
-    <title lang="pt">Os Segredos da Tia Cátia2</title>
-    <desc lang="pt">A Tia Cátia nunca foi à Ucrânia2.</desc>
-    <icon src="https://www.lyngsat-logo.com/logo/tv/aa/acapulco-shore-mx.png" />
+  <programme start="20210222020000 +0300" stop="20210222070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
   </programme>
-</tv>
+  <programme start="20210222070000 +0300" stop="20210222080000 +0300" channel="GFm">
+     <title lang="pt">Programa das 7</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222120000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Primeira Edição</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222130000 +0300" channel="GFm">
+     <title lang="pt">Toque Brasileiro</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Segunda Edição</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222200000 +0300" channel="GFm">
+     <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222210000 +0300" channel="GFm">
+     <title lang="pt">On Line</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210223020000 +0300" channel="GFm">
+     <title lang="pt">Free Sound</title>
+  </programme>
+  <programme start="20210223020000 +0300" stop="20210223070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223080000 +0300" channel="GFm">
+     <title lang="pt">Programa das 7</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223120000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Primeira Edição</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223130000 +0300" channel="GFm">
+     <title lang="pt">Toque Brasileiro</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Segunda Edição</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223200000 +0300" channel="GFm">
+     <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223210000 +0300" channel="GFm">
+     <title lang="pt">On Line</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210224020000 +0300" channel="GFm">
+     <title lang="pt">Free Sound</title>
+  </programme>
+  <programme start="20210224020000 +0300" stop="20210224070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224080000 +0300" channel="GFm">
+     <title lang="pt">Programa das 7</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224120000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Primeira Edição</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224130000 +0300" channel="GFm">
+     <title lang="pt">Toque Brasileiro</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Segunda Edição</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224200000 +0300" channel="GFm">
+     <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224210000 +0300" channel="GFm">
+     <title lang="pt">On Line</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210225020000 +0300" channel="GFm">
+     <title lang="pt">Free Sound</title>
+  </programme>
+  <programme start="20210225020000 +0300" stop="20210225070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225080000 +0300" channel="GFm">
+     <title lang="pt">Programa das 7</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225120000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Primeira Edição</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225130000 +0300" channel="GFm">
+     <title lang="pt">Toque Brasileiro</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Segunda Edição</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225200000 +0300" channel="GFm">
+     <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225210000 +0300" channel="GFm">
+     <title lang="pt">On Line</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210226020000 +0300" channel="GFm">
+     <title lang="pt">Free Sound</title>
+  </programme>
+  <programme start="20210226020000 +0300" stop="20210226070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226080000 +0300" channel="GFm">
+     <title lang="pt">Programa das 7</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226120000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Primeira Edição</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226130000 +0300" channel="GFm">
+     <title lang="pt">Toque Brasileiro</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="GFm">
+     <title lang="pt">60 Minutos - Segunda Edição</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226200000 +0300" channel="GFm">
+     <title lang="pt">Happy Hour</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210227020000 +0300" channel="GFm">
+     <title lang="pt">On Line</title>
+  </programme>
+  <programme start="20210227020000 +0300" stop="20210227070000 +0300" channel="GFm">
+     <title lang="pt">Madrugada GFM</title>
+  </programme>
+  <programme start="20210227070000 +0300" stop="20210227210000 +0300" channel="GFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227210000 +0300" stop="20210228000000 +0300" channel="GFm">
+     <title lang="pt">Especial de Sábado</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221040000 +0300" stop="20210221060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210221110000 +0300" stop="20210221120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Sem Parar Metropolitana</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210221172000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana no Sem Parar</title>
+  </programme>
+  <programme start="20210221172000 +0300" stop="20210221180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Sem Parar Metropolitana</title>
+  </programme>
+  <programme start="20210221180000 +0300" stop="20210222000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222020000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Cafeína Late Show</title>
+  </programme>
+  <programme start="20210222020000 +0300" stop="20210222040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222040000 +0300" stop="20210222060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222070000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Metropolitana News</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222113000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222113000 +0300" stop="20210222120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222123000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Toca 10</title>
+  </programme>
+  <programme start="20210222123000 +0300" stop="20210222140000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222160000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222161000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Villa Mix Festival</title>
+  </programme>
+  <programme start="20210222161000 +0300" stop="20210222163000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222163000 +0300" stop="20210222170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222173000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana</title>
+  </programme>
+  <programme start="20210222173000 +0300" stop="20210222180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222200000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Chupim™</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223020000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Cafeína Late Show</title>
+  </programme>
+  <programme start="20210223020000 +0300" stop="20210223040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223040000 +0300" stop="20210223060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223070000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Metropolitana News</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223113000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223113000 +0300" stop="20210223120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223123000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Toca 10</title>
+  </programme>
+  <programme start="20210223123000 +0300" stop="20210223140000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223160000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223161000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Villa Mix Festival</title>
+  </programme>
+  <programme start="20210223161000 +0300" stop="20210223163000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223163000 +0300" stop="20210223170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223173000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana</title>
+  </programme>
+  <programme start="20210223173000 +0300" stop="20210223180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223200000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Chupim™</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224020000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Cafeína Late Show</title>
+  </programme>
+  <programme start="20210224020000 +0300" stop="20210224040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224040000 +0300" stop="20210224060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224070000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Metropolitana News</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224113000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224113000 +0300" stop="20210224120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224123000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Toca 10</title>
+  </programme>
+  <programme start="20210224123000 +0300" stop="20210224140000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224160000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224161000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Villa Mix Festival</title>
+  </programme>
+  <programme start="20210224161000 +0300" stop="20210224163000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224163000 +0300" stop="20210224170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224173000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana</title>
+  </programme>
+  <programme start="20210224173000 +0300" stop="20210224180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224200000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Chupim™</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225020000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Cafeína Late Show</title>
+  </programme>
+  <programme start="20210225020000 +0300" stop="20210225040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225040000 +0300" stop="20210225060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225070000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Metropolitana News</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225113000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225113000 +0300" stop="20210225120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225123000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Toca 10</title>
+  </programme>
+  <programme start="20210225123000 +0300" stop="20210225140000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225160000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225161000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Villa Mix Festival</title>
+  </programme>
+  <programme start="20210225161000 +0300" stop="20210225163000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225163000 +0300" stop="20210225170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225173000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana</title>
+  </programme>
+  <programme start="20210225173000 +0300" stop="20210225180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225200000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Chupim™</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226020000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Cafeína Late Show</title>
+  </programme>
+  <programme start="20210226020000 +0300" stop="20210226040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226040000 +0300" stop="20210226060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226070000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Metropolitana News</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226113000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226113000 +0300" stop="20210226120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226123000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Toca 10</title>
+  </programme>
+  <programme start="20210226123000 +0300" stop="20210226140000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226160000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226161000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Villa Mix Festival</title>
+  </programme>
+  <programme start="20210226161000 +0300" stop="20210226163000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226163000 +0300" stop="20210226170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Bônus Metropolitana</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226173000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana</title>
+  </programme>
+  <programme start="20210226173000 +0300" stop="20210226180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226200000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Chupim™</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroNight</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227040000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227040000 +0300" stop="20210227060000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227090000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227090000 +0300" stop="20210227110000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroPlay</title>
+  </programme>
+  <programme start="20210227110000 +0300" stop="20210227120000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227170000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Sem Parar Metropolitana</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227172000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Top Metropolitana no Sem Parar</title>
+  </programme>
+  <programme start="20210227172000 +0300" stop="20210227180000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Sem Parar Metropolitana</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227220000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="MetropolitanaFm">
+     <title lang="pt">MetroNight</title>
+  </programme>
+  <programme start="20210221010000 +0300" stop="20210221020000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210221020000 +0300" stop="20210221070000 +0300" channel="Energia97">
+     <title lang="pt">Club Life</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221120000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210221124500 +0300" stop="20210221150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210221154500 +0300" stop="20210221190000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210221200000 +0300" channel="Energia97">
+     <title lang="pt">Freedom</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210221220000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210221230000 +0300" channel="Energia97">
+     <title lang="pt">She DJ</title>
+  </programme>
+  <programme start="20210221230000 +0300" stop="20210222000000 +0300" channel="Energia97">
+     <title lang="pt">Terremoto</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222070000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210222124500 +0300" stop="20210222150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210222150000 +0300" stop="20210222154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210222154500 +0300" stop="20210222173000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210222173000 +0300" stop="20210222210000 +0300" channel="Energia97">
+     <title lang="pt">Estádio 97</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222230000 +0300" channel="Energia97">
+     <title lang="pt">Night Sessions</title>
+  </programme>
+  <programme start="20210222230000 +0300" stop="20210223000000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223070000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210223124500 +0300" stop="20210223150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210223150000 +0300" stop="20210223154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210223154500 +0300" stop="20210223173000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210223173000 +0300" stop="20210223210000 +0300" channel="Energia97">
+     <title lang="pt">Estádio 97</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223230000 +0300" channel="Energia97">
+     <title lang="pt">Night Sessions</title>
+  </programme>
+  <programme start="20210223230000 +0300" stop="20210224000000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224070000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210224124500 +0300" stop="20210224150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210224150000 +0300" stop="20210224154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210224154500 +0300" stop="20210224173000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210224173000 +0300" stop="20210224210000 +0300" channel="Energia97">
+     <title lang="pt">Estádio 97</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224230000 +0300" channel="Energia97">
+     <title lang="pt">Night Sessions</title>
+  </programme>
+  <programme start="20210224230000 +0300" stop="20210225000000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225070000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210225124500 +0300" stop="20210225150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210225150000 +0300" stop="20210225154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210225154500 +0300" stop="20210225173000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210225173000 +0300" stop="20210225210000 +0300" channel="Energia97">
+     <title lang="pt">Estádio 97</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225230000 +0300" channel="Energia97">
+     <title lang="pt">Night Sessions</title>
+  </programme>
+  <programme start="20210225230000 +0300" stop="20210226000000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226070000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226124500 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210226124500 +0300" stop="20210226150000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210226150000 +0300" stop="20210226154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210226154500 +0300" stop="20210226173000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210226173000 +0300" stop="20210226200000 +0300" channel="Energia97">
+     <title lang="pt">Estádio 97</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226210000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226230000 +0300" channel="Energia97">
+     <title lang="pt">Night Sessions</title>
+  </programme>
+  <programme start="20210226230000 +0300" stop="20210227010000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210227010000 +0300" stop="20210227020000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210227020000 +0300" stop="20210227070000 +0300" channel="Energia97">
+     <title lang="pt">The Martin Garrix Show</title>
+  </programme>
+  <programme start="20210227070000 +0300" stop="20210227100000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Véia</title>
+  </programme>
+  <programme start="20210227100000 +0300" stop="20210227120000 +0300" channel="Energia97">
+     <title lang="pt">Morde e Assopra</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227150000 +0300" channel="Energia97">
+     <title lang="pt">Lunch Break</title>
+  </programme>
+  <programme start="20210227150000 +0300" stop="20210227154500 +0300" channel="Energia97">
+     <title lang="pt">Vibe 97</title>
+  </programme>
+  <programme start="20210227154500 +0300" stop="20210227230000 +0300" channel="Energia97">
+     <title lang="pt">Playlist Energia 97</title>
+  </programme>
+  <programme start="20210227230000 +0300" stop="20210228000000 +0300" channel="Energia97">
+     <title lang="pt">Energia na Noite</title>
+  </programme>
+  <programme start="20210221010000 +0300" stop="20210221060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock Domingo 1ª Edição</title>
+  </programme>
+  <programme start="20210221110000 +0300" stop="20210221120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15 Domingo</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210221130000 +0300" stop="20210221140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Reprise Pretinho Básico</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Balancinho Bom</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock Domingo - 2ª Edição</title>
+  </programme>
+  <programme start="20210221180000 +0300" stop="20210221190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Reprise Pretinho Básico</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210221200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Surf</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210222000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222084000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Despertador</title>
+  </programme>
+  <programme start="20210222084000 +0300" stop="20210222090000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 1º Edição</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222104500 +0300" channel="AtlantidaFm">
+     <title lang="pt">Hashtag Atlântida</title>
+  </programme>
+  <programme start="20210222104500 +0300" stop="20210222110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 2º Edição</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Bola nas Costas</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210222130000 +0300" stop="20210222140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 1ª Edição</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210222150000 +0300" stop="20210222170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Tá Vazando</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222174000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock</title>
+  </programme>
+  <programme start="20210222174000 +0300" stop="20210222180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Hits Tarde</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 2ª Edição</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programa das Sete</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222210000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222230000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Podcast</title>
+  </programme>
+  <programme start="20210222230000 +0300" stop="20210223000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223084000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Despertador</title>
+  </programme>
+  <programme start="20210223084000 +0300" stop="20210223090000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 1º Edição</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223104500 +0300" channel="AtlantidaFm">
+     <title lang="pt">Hashtag Atlântida</title>
+  </programme>
+  <programme start="20210223104500 +0300" stop="20210223110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 2º Edição</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Bola nas Costas</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210223130000 +0300" stop="20210223140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 1ª Edição</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210223150000 +0300" stop="20210223170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Tá Vazando</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223174000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock</title>
+  </programme>
+  <programme start="20210223174000 +0300" stop="20210223180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Hits Tarde</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 2ª Edição</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programa das Sete</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223210000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223230000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Podcast</title>
+  </programme>
+  <programme start="20210223230000 +0300" stop="20210224000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224084000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Despertador</title>
+  </programme>
+  <programme start="20210224084000 +0300" stop="20210224090000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 1º Edição</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224104500 +0300" channel="AtlantidaFm">
+     <title lang="pt">Hashtag Atlântida</title>
+  </programme>
+  <programme start="20210224104500 +0300" stop="20210224110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 2º Edição</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Bola nas Costas</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210224130000 +0300" stop="20210224140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 1ª Edição</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210224150000 +0300" stop="20210224170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Tá Vazando</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224174000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock</title>
+  </programme>
+  <programme start="20210224174000 +0300" stop="20210224180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Hits Tarde</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 2ª Edição</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programa das Sete</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224210000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224230000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Podcast</title>
+  </programme>
+  <programme start="20210224230000 +0300" stop="20210225000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225084000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Despertador</title>
+  </programme>
+  <programme start="20210225084000 +0300" stop="20210225090000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 1º Edição</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225104500 +0300" channel="AtlantidaFm">
+     <title lang="pt">Hashtag Atlântida</title>
+  </programme>
+  <programme start="20210225104500 +0300" stop="20210225110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 2º Edição</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Bola nas Costas</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210225130000 +0300" stop="20210225140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 1ª Edição</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210225150000 +0300" stop="20210225170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Tá Vazando</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225174000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock</title>
+  </programme>
+  <programme start="20210225174000 +0300" stop="20210225180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Hits Tarde</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 2ª Edição</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programa das Sete</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225210000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225230000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Podcast</title>
+  </programme>
+  <programme start="20210225230000 +0300" stop="20210226000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226084000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Despertador</title>
+  </programme>
+  <programme start="20210226084000 +0300" stop="20210226090000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 1º Edição</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226104500 +0300" channel="AtlantidaFm">
+     <title lang="pt">Hashtag Atlântida</title>
+  </programme>
+  <programme start="20210226104500 +0300" stop="20210226110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Atlântida Hits - 2º Edição</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Bola nas Costas</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210226130000 +0300" stop="20210226140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 1ª Edição</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210226150000 +0300" stop="20210226170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Tá Vazando</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226174000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock</title>
+  </programme>
+  <programme start="20210226174000 +0300" stop="20210226180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Hits Tarde</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Pretinho Básico 2ª Edição</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programa das Sete</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226210000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226220000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Podcast</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210226230000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Play nas Brabas</title>
+  </programme>
+  <programme start="20210226230000 +0300" stop="20210227000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 15</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227020000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ</title>
+  </programme>
+  <programme start="20210227020000 +0300" stop="20210227060000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227070000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 1ª Edição</title>
+  </programme>
+  <programme start="20210227070000 +0300" stop="20210227110000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock Sábado 1ª Edição</title>
+  </programme>
+  <programme start="20210227110000 +0300" stop="20210227120000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Mais Pedidas da Semana</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227130000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Discorama 2ª Edição</title>
+  </programme>
+  <programme start="20210227130000 +0300" stop="20210227140000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Reprise Pretinho Básico</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227150000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL DJ Weekend</title>
+  </programme>
+  <programme start="20210227150000 +0300" stop="20210227170000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Pop Rock Sábado - 2ª Edição</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227180000 +0300" channel="AtlantidaFm">
+     <title lang="pt">ATL Rock Sábado</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227190000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Reprise Pretinho Básico</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227200000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Local Tracks</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227220000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Top 40</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="AtlantidaFm">
+     <title lang="pt">Green Valley Station</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221070000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA AO VIVO</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210221100000 +0300" stop="20210221120000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221130000 +0300" channel="ODiaFmRio">
+     <title lang="pt">RODA DE SAMBA DA FM O DIA</title>
+  </programme>
+  <programme start="20210221130000 +0300" stop="20210221140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210221160000 +0300" stop="20210221170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE JOGA</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210221180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210221180000 +0300" stop="20210221190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210221200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">MELHORES MOMENTOS FM O DIA</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210222000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222050000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PAGODEIRA</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE LIGA NA FM O DIA</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222110000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222143500 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210222143500 +0300" stop="20210222150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222150000 +0300" stop="20210222160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FUNK-U DAS ANTIGAS</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222210000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA ONLINE</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223050000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PAGODEIRA</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE LIGA NA FM O DIA</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223110000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223143500 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210223143500 +0300" stop="20210223150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223150000 +0300" stop="20210223160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FUNK-U</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223210000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA ONLINE</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210223230000 +0300" channel="ODiaFmRio">
+     <title lang="pt">BAILE DO FP DO TREM BALA</title>
+  </programme>
+  <programme start="20210223230000 +0300" stop="20210224000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">MOFAIA</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224050000 +0300" channel="ODiaFmRio">
+     <title lang="pt">MOFAIA</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PAGODEIRA</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE LIGA NA FM O DIA</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224110000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224143500 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210224143500 +0300" stop="20210224150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210224150000 +0300" stop="20210224160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SEGUE O BAILE</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224210000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA ONLINE</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225050000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PAGODEIRA</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE LIGA NA FM O DIA</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225110000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225143500 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210225143500 +0300" stop="20210225150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225150000 +0300" stop="20210225160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FUNK-U</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">BAÚ DO VIBE</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225210000 +0300" channel="ODiaFmRio">
+     <title lang="pt">POPLINE</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210225230000 +0300" channel="ODiaFmRio">
+     <title lang="pt">EMBRASANDO</title>
+  </programme>
+  <programme start="20210225230000 +0300" stop="20210226000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">BATIDÃO DA FM O DIA</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226050000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PAGODEIRA</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SE LIGA NA FM O DIA</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226110000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226143500 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210226143500 +0300" stop="20210226150000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210226150000 +0300" stop="20210226160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FUNK-U</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226210000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA ONLINE</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210226230000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PRA TODAS ELAS</title>
+  </programme>
+  <programme start="20210226230000 +0300" stop="20210227000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">RODA DE SAMBA DA FM O DIA</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227060000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227070000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA AO VIVO</title>
+  </programme>
+  <programme start="20210227070000 +0300" stop="20210227090000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210227090000 +0300" stop="20210227100000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FM O DIA RETRÔ</title>
+  </programme>
+  <programme start="20210227100000 +0300" stop="20210227120000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227130000 +0300" channel="ODiaFmRio">
+     <title lang="pt">RODA DE SAMBA DA FM O DIA</title>
+  </programme>
+  <programme start="20210227130000 +0300" stop="20210227140000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227160000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SKUTA</title>
+  </programme>
+  <programme start="20210227160000 +0300" stop="20210227170000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FUNK-U</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227180000 +0300" channel="ODiaFmRio">
+     <title lang="pt">VIBE FM O DIA</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227190000 +0300" channel="ODiaFmRio">
+     <title lang="pt">SÓ AS MELHORES</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227200000 +0300" channel="ODiaFmRio">
+     <title lang="pt">MELHORES MOMENTOS FM O DIA</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227220000 +0300" channel="ODiaFmRio">
+     <title lang="pt">PROGRAMAÇÃO</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210227230000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FESTA PLANET</title>
+  </programme>
+  <programme start="20210227230000 +0300" stop="20210228000000 +0300" channel="ODiaFmRio">
+     <title lang="pt">FESTA GÊNESIS</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210221050000 +0300" stop="20210221090000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221100000 +0300" channel="BandFm">
+     <title lang="pt">TE PEGUEI</title>
+  </programme>
+  <programme start="20210221100000 +0300" stop="20210221120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221140000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221191000 +0300" channel="BandFm">
+     <title lang="pt">TE PEGUEI</title>
+  </programme>
+  <programme start="20210221191000 +0300" stop="20210221193000 +0300" channel="BandFm">
+     <title lang="pt">SUPER 6</title>
+  </programme>
+  <programme start="20210221193000 +0300" stop="20210221203000 +0300" channel="BandFm">
+     <title lang="pt">TE PEGUEI</title>
+  </programme>
+  <programme start="20210221203000 +0300" stop="20210221213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210221213000 +0300" stop="20210221223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210221223000 +0300" stop="20210222000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222060000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222073000 +0300" channel="BandFm">
+     <title lang="pt">BOM DIA SÃO PAULO</title>
+  </programme>
+  <programme start="20210222073000 +0300" stop="20210222100000 +0300" channel="BandFm">
+     <title lang="pt">JORNAL DA MANHÃ</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222180000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222183000 +0300" channel="BandFm">
+     <title lang="pt">Band Ao Vivo</title>
+  </programme>
+  <programme start="20210222183000 +0300" stop="20210222200000 +0300" channel="BandFm">
+     <title lang="pt">Estação Band FM</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210222203000 +0300" stop="20210222213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210222213000 +0300" stop="20210222223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210222223000 +0300" stop="20210223000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223060000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223073000 +0300" channel="BandFm">
+     <title lang="pt">BOM DIA SÃO PAULO</title>
+  </programme>
+  <programme start="20210223073000 +0300" stop="20210223100000 +0300" channel="BandFm">
+     <title lang="pt">JORNAL DA MANHÃ</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223180000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223183000 +0300" channel="BandFm">
+     <title lang="pt">Band Ao Vivo</title>
+  </programme>
+  <programme start="20210223183000 +0300" stop="20210223200000 +0300" channel="BandFm">
+     <title lang="pt">Estação Band FM</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210223203000 +0300" stop="20210223213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210223213000 +0300" stop="20210223223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210223223000 +0300" stop="20210224000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224060000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224073000 +0300" channel="BandFm">
+     <title lang="pt">BOM DIA SÃO PAULO</title>
+  </programme>
+  <programme start="20210224073000 +0300" stop="20210224100000 +0300" channel="BandFm">
+     <title lang="pt">JORNAL DA MANHÃ</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224180000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224183000 +0300" channel="BandFm">
+     <title lang="pt">Band Ao Vivo</title>
+  </programme>
+  <programme start="20210224183000 +0300" stop="20210224200000 +0300" channel="BandFm">
+     <title lang="pt">Estação Band FM</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210224203000 +0300" stop="20210224213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210224213000 +0300" stop="20210224223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210224223000 +0300" stop="20210225000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225060000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225073000 +0300" channel="BandFm">
+     <title lang="pt">BOM DIA SÃO PAULO</title>
+  </programme>
+  <programme start="20210225073000 +0300" stop="20210225100000 +0300" channel="BandFm">
+     <title lang="pt">JORNAL DA MANHÃ</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225180000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225183000 +0300" channel="BandFm">
+     <title lang="pt">Band Ao Vivo</title>
+  </programme>
+  <programme start="20210225183000 +0300" stop="20210225200000 +0300" channel="BandFm">
+     <title lang="pt">Estação Band FM</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210225203000 +0300" stop="20210225213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210225213000 +0300" stop="20210225223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210225223000 +0300" stop="20210226000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226060000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226073000 +0300" channel="BandFm">
+     <title lang="pt">BOM DIA SÃO PAULO</title>
+  </programme>
+  <programme start="20210226073000 +0300" stop="20210226100000 +0300" channel="BandFm">
+     <title lang="pt">JORNAL DA MANHÃ</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226180000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226183000 +0300" channel="BandFm">
+     <title lang="pt">Band Ao Vivo</title>
+  </programme>
+  <programme start="20210226183000 +0300" stop="20210226200000 +0300" channel="BandFm">
+     <title lang="pt">Estação Band FM</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210226203000 +0300" stop="20210226213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210226213000 +0300" stop="20210226223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210226223000 +0300" stop="20210227000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227050000 +0300" channel="BandFm">
+     <title lang="pt">BAND CORUJA</title>
+  </programme>
+  <programme start="20210227050000 +0300" stop="20210227100000 +0300" channel="BandFm">
+     <title lang="pt">BAND BOM DIA</title>
+  </programme>
+  <programme start="20210227100000 +0300" stop="20210227120000 +0300" channel="BandFm">
+     <title lang="pt">QUEM AMA NÃO ESQUECE</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227140000 +0300" channel="BandFm">
+     <title lang="pt">AXÉ BAND</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227191000 +0300" channel="BandFm">
+     <title lang="pt">TE PEGUEI</title>
+  </programme>
+  <programme start="20210227191000 +0300" stop="20210227193000 +0300" channel="BandFm">
+     <title lang="pt">SUPER 6</title>
+  </programme>
+  <programme start="20210227193000 +0300" stop="20210227200000 +0300" channel="BandFm">
+     <title lang="pt">TE PEGUEI</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227203000 +0300" channel="BandFm">
+     <title lang="pt">REPÓRTER BRASIL</title>
+  </programme>
+  <programme start="20210227203000 +0300" stop="20210227213000 +0300" channel="BandFm">
+     <title lang="pt">BAND LOVE</title>
+  </programme>
+  <programme start="20210227213000 +0300" stop="20210227223000 +0300" channel="BandFm">
+     <title lang="pt">APERTE PLAY</title>
+  </programme>
+  <programme start="20210227223000 +0300" stop="20210228000000 +0300" channel="BandFm">
+     <title lang="pt">RITMO DA BAND</title>
+  </programme>
+  <programme start="20210221020000 +0300" stop="20210221050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210221050000 +0300" stop="20210221060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221070000 +0300" channel="MassaFm">
+     <title lang="pt">Café da Manhã</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221120000 +0300" channel="MassaFm">
+     <title lang="pt">Massa Retrô</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221170000 +0300" channel="MassaFm">
+     <title lang="pt">Batidão Da Massa</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210221190000 +0300" channel="MassaFm">
+     <title lang="pt">Hora Massa</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210221220000 +0300" channel="MassaFm">
+     <title lang="pt">Massa Retrô</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210222010000 +0300" channel="MassaFm">
+     <title lang="pt">Minha Saudade é Você</title>
+  </programme>
+  <programme start="20210222010000 +0300" stop="20210222020000 +0300" channel="MassaFm">
+     <title lang="pt">The Noite</title>
+  </programme>
+  <programme start="20210222020000 +0300" stop="20210222050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222080000 +0300" channel="MassaFm">
+     <title lang="pt">Microfone Aberto</title>
+  </programme>
+  <programme start="20210222080000 +0300" stop="20210222110000 +0300" channel="MassaFm">
+     <title lang="pt">Manhã Da Massa</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222140000 +0300" channel="MassaFm">
+     <title lang="pt">Turma do Ratinho</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222160000 +0300" channel="MassaFm">
+     <title lang="pt">Metendo a Colher</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="MassaFm">
+     <title lang="pt">Tarde Da Massa</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222180000 +0300" channel="MassaFm">
+     <title lang="pt">As Mais Pedidas da Massa</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222193000 +0300" channel="MassaFm">
+     <title lang="pt">Na Geral</title>
+  </programme>
+  <programme start="20210222193000 +0300" stop="20210222210000 +0300" channel="MassaFm">
+     <title lang="pt">Tamo Junto e Misturado</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222220000 +0300" channel="MassaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223010000 +0300" channel="MassaFm">
+     <title lang="pt">Minha Saudade é Você</title>
+  </programme>
+  <programme start="20210223010000 +0300" stop="20210223020000 +0300" channel="MassaFm">
+     <title lang="pt">The Noite</title>
+  </programme>
+  <programme start="20210223020000 +0300" stop="20210223050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223080000 +0300" channel="MassaFm">
+     <title lang="pt">Microfone Aberto</title>
+  </programme>
+  <programme start="20210223080000 +0300" stop="20210223110000 +0300" channel="MassaFm">
+     <title lang="pt">Manhã Da Massa</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223140000 +0300" channel="MassaFm">
+     <title lang="pt">Turma do Ratinho</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223160000 +0300" channel="MassaFm">
+     <title lang="pt">Metendo a Colher</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="MassaFm">
+     <title lang="pt">Tarde Da Massa</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223180000 +0300" channel="MassaFm">
+     <title lang="pt">As Mais Pedidas da Massa</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223193000 +0300" channel="MassaFm">
+     <title lang="pt">Na Geral</title>
+  </programme>
+  <programme start="20210223193000 +0300" stop="20210223210000 +0300" channel="MassaFm">
+     <title lang="pt">Tamo Junto e Misturado</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223220000 +0300" channel="MassaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224010000 +0300" channel="MassaFm">
+     <title lang="pt">Minha Saudade é Você</title>
+  </programme>
+  <programme start="20210224010000 +0300" stop="20210224020000 +0300" channel="MassaFm">
+     <title lang="pt">The Noite</title>
+  </programme>
+  <programme start="20210224020000 +0300" stop="20210224050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224080000 +0300" channel="MassaFm">
+     <title lang="pt">Microfone Aberto</title>
+  </programme>
+  <programme start="20210224080000 +0300" stop="20210224110000 +0300" channel="MassaFm">
+     <title lang="pt">Manhã Da Massa</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224140000 +0300" channel="MassaFm">
+     <title lang="pt">Turma do Ratinho</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224160000 +0300" channel="MassaFm">
+     <title lang="pt">Metendo a Colher</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="MassaFm">
+     <title lang="pt">Tarde Da Massa</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224180000 +0300" channel="MassaFm">
+     <title lang="pt">As Mais Pedidas da Massa</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224193000 +0300" channel="MassaFm">
+     <title lang="pt">Na Geral</title>
+  </programme>
+  <programme start="20210224193000 +0300" stop="20210224210000 +0300" channel="MassaFm">
+     <title lang="pt">Tamo Junto e Misturado</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224220000 +0300" channel="MassaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225010000 +0300" channel="MassaFm">
+     <title lang="pt">Minha Saudade é Você</title>
+  </programme>
+  <programme start="20210225010000 +0300" stop="20210225020000 +0300" channel="MassaFm">
+     <title lang="pt">The Noite</title>
+  </programme>
+  <programme start="20210225020000 +0300" stop="20210225050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225080000 +0300" channel="MassaFm">
+     <title lang="pt">Microfone Aberto</title>
+  </programme>
+  <programme start="20210225080000 +0300" stop="20210225110000 +0300" channel="MassaFm">
+     <title lang="pt">Manhã Da Massa</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225140000 +0300" channel="MassaFm">
+     <title lang="pt">Turma do Ratinho</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225160000 +0300" channel="MassaFm">
+     <title lang="pt">Metendo a Colher</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="MassaFm">
+     <title lang="pt">Tarde Da Massa</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225180000 +0300" channel="MassaFm">
+     <title lang="pt">As Mais Pedidas da Massa</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225193000 +0300" channel="MassaFm">
+     <title lang="pt">Na Geral</title>
+  </programme>
+  <programme start="20210225193000 +0300" stop="20210225210000 +0300" channel="MassaFm">
+     <title lang="pt">Tamo Junto e Misturado</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225220000 +0300" channel="MassaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226010000 +0300" channel="MassaFm">
+     <title lang="pt">Minha Saudade é Você</title>
+  </programme>
+  <programme start="20210226010000 +0300" stop="20210226020000 +0300" channel="MassaFm">
+     <title lang="pt">The Noite</title>
+  </programme>
+  <programme start="20210226020000 +0300" stop="20210226050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226080000 +0300" channel="MassaFm">
+     <title lang="pt">Microfone Aberto</title>
+  </programme>
+  <programme start="20210226080000 +0300" stop="20210226110000 +0300" channel="MassaFm">
+     <title lang="pt">Manhã Da Massa</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226140000 +0300" channel="MassaFm">
+     <title lang="pt">Turma do Ratinho</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226160000 +0300" channel="MassaFm">
+     <title lang="pt">Metendo a Colher</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="MassaFm">
+     <title lang="pt">Tarde Da Massa</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226180000 +0300" channel="MassaFm">
+     <title lang="pt">As Mais Pedidas da Massa</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226193000 +0300" channel="MassaFm">
+     <title lang="pt">Na Geral</title>
+  </programme>
+  <programme start="20210226193000 +0300" stop="20210226210000 +0300" channel="MassaFm">
+     <title lang="pt">Tamo Junto e Misturado</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226220000 +0300" channel="MassaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227020000 +0300" channel="MassaFm">
+     <title lang="pt">Boteco da Massa</title>
+  </programme>
+  <programme start="20210227020000 +0300" stop="20210227050000 +0300" channel="MassaFm">
+     <title lang="pt">Companhia da Massa</title>
+  </programme>
+  <programme start="20210227050000 +0300" stop="20210227060000 +0300" channel="MassaFm">
+     <title lang="pt">Bom Dia Massa</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227070000 +0300" channel="MassaFm">
+     <title lang="pt">Café da Manhã</title>
+  </programme>
+  <programme start="20210227070000 +0300" stop="20210227120000 +0300" channel="MassaFm">
+     <title lang="pt">Massa Retrô</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227170000 +0300" channel="MassaFm">
+     <title lang="pt">Batidão Da Massa</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227190000 +0300" channel="MassaFm">
+     <title lang="pt">Hora Massa</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227200000 +0300" channel="MassaFm">
+     <title lang="pt">Massa Retrô</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227210000 +0300" channel="MassaFm">
+     <title lang="pt">Noite da Massa</title>
+  </programme>
+  <programme start="20210227210000 +0300" stop="20210227220000 +0300" channel="MassaFm">
+     <title lang="pt">Festa da Massa</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228020000 +0300" channel="MassaFm">
+     <title lang="pt">Esquenta Woods</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210221050000 +0300" stop="20210221090000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucessos do Rei</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221170000 +0300" channel="LiderancaFm">
+     <title lang="pt">Domingo Liderança</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210222000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210222080000 +0300" stop="20210222110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Bom Dia Liderança</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucesso Liderança</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222130000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210222130000 +0300" stop="20210222160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222200000 +0300" channel="LiderancaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210223000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210223080000 +0300" stop="20210223110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Bom Dia Liderança</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucesso Liderança</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223130000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210223130000 +0300" stop="20210223160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223200000 +0300" channel="LiderancaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210224000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210224080000 +0300" stop="20210224110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Bom Dia Liderança</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucesso Liderança</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224130000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210224130000 +0300" stop="20210224160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224200000 +0300" channel="LiderancaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210225000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210225080000 +0300" stop="20210225110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Bom Dia Liderança</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucesso Liderança</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225130000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210225130000 +0300" stop="20210225160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225200000 +0300" channel="LiderancaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210226000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210226080000 +0300" stop="20210226110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Bom Dia Liderança</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sucesso Liderança</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226130000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210226130000 +0300" stop="20210226160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226200000 +0300" channel="LiderancaFm">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210227000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227050000 +0300" channel="LiderancaFm">
+     <title lang="pt">Madrugada Liderança</title>
+  </programme>
+  <programme start="20210227050000 +0300" stop="20210227080000 +0300" channel="LiderancaFm">
+     <title lang="pt">Manhã da Gente</title>
+  </programme>
+  <programme start="20210227080000 +0300" stop="20210227110000 +0300" channel="LiderancaFm">
+     <title lang="pt">Sabadão Liderança</title>
+  </programme>
+  <programme start="20210227110000 +0300" stop="20210227120000 +0300" channel="LiderancaFm">
+     <title lang="pt">Liderança Nacional</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227140000 +0300" channel="LiderancaFm">
+     <title lang="pt">Pra Ficar & Amar</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227160000 +0300" channel="LiderancaFm">
+     <title lang="pt">É Só Pedir</title>
+  </programme>
+  <programme start="20210227160000 +0300" stop="20210227190000 +0300" channel="LiderancaFm">
+     <title lang="pt">Clube do Forró</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210228000000 +0300" channel="LiderancaFm">
+     <title lang="pt">Festa da Liderança</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210221030000 +0300" stop="20210221060000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221090000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221110000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210221110000 +0300" stop="20210221120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210221130000 +0300" stop="20210221140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210221160000 +0300" stop="20210221170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210221180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210221180000 +0300" stop="20210221200000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210221220000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210222000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210222030000 +0300" stop="20210222050000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222060000 +0300" channel="MixFm">
+     <title lang="pt">Mix News</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222080000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210222080000 +0300" stop="20210222090000 +0300" channel="MixFm">
+     <title lang="pt">Hora do Mução</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222100000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222110000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210222130000 +0300" stop="20210222140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222200000 +0300" channel="MixFm">
+     <title lang="pt">Mix Tudo</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222210000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222220000 +0300" channel="MixFm">
+     <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210223030000 +0300" stop="20210223050000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223060000 +0300" channel="MixFm">
+     <title lang="pt">Mix News</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223080000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210223080000 +0300" stop="20210223090000 +0300" channel="MixFm">
+     <title lang="pt">Hora do Mução</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223100000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223110000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210223130000 +0300" stop="20210223140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223200000 +0300" channel="MixFm">
+     <title lang="pt">Mix Tudo</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223210000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223220000 +0300" channel="MixFm">
+     <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210224030000 +0300" stop="20210224050000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224060000 +0300" channel="MixFm">
+     <title lang="pt">Mix News</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224090000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224100000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224110000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210224130000 +0300" stop="20210224140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224200000 +0300" channel="MixFm">
+     <title lang="pt">Mix Tudo</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224210000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224220000 +0300" channel="MixFm">
+     <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210225030000 +0300" stop="20210225050000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225060000 +0300" channel="MixFm">
+     <title lang="pt">Mix News</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225080000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210225080000 +0300" stop="20210225090000 +0300" channel="MixFm">
+     <title lang="pt">Hora do Mução</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225100000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225110000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210225130000 +0300" stop="20210225140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225200000 +0300" channel="MixFm">
+     <title lang="pt">Mix Tudo</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225210000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225220000 +0300" channel="MixFm">
+     <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210226030000 +0300" stop="20210226050000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226060000 +0300" channel="MixFm">
+     <title lang="pt">Mix News</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226080000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210226080000 +0300" stop="20210226090000 +0300" channel="MixFm">
+     <title lang="pt">Hora do Mução</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226100000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226110000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210226130000 +0300" stop="20210226140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226200000 +0300" channel="MixFm">
+     <title lang="pt">Mix Tudo</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226210000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226220000 +0300" channel="MixFm">
+     <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227030000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210227030000 +0300" stop="20210227060000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227090000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210227090000 +0300" stop="20210227110000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210227110000 +0300" stop="20210227120000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227130000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210227130000 +0300" stop="20210227140000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227160000 +0300" channel="MixFm">
+     <title lang="pt">No Break</title>
+  </programme>
+  <programme start="20210227160000 +0300" stop="20210227170000 +0300" channel="MixFm">
+     <title lang="pt">Às Mais Pedidas da Mix</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227180000 +0300" channel="MixFm">
+     <title lang="pt">Top Mix</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227200000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227220000 +0300" channel="MixFm">
+     <title lang="pt">Super Mix</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="MixFm">
+     <title lang="pt">Baú da Mix</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221130000 +0300" channel="Antena1">
+     <title lang="pt">Nostálgicos 70, 80, 90</title>
+  </programme>
+  <programme start="20210221130000 +0300" stop="20210221140000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221150000 +0300" channel="Antena1">
+     <title lang="pt">As 10+ Europa</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221170000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210221170000 +0300" stop="20210221200000 +0300" channel="Antena1">
+     <title lang="pt">30+ Antena 1</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210221210000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210221210000 +0300" stop="20210221220000 +0300" channel="Antena1">
+     <title lang="pt">Nostálgicos</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210222050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210222050000 +0300" stop="20210222070000 +0300" channel="Antena1">
+     <title lang="pt">Day Light</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222130000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210222130000 +0300" stop="20210222180000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222220000 +0300" channel="Antena1">
+     <title lang="pt">Music for you</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223000000 +0300" channel="Antena1">
+     <title lang="pt">Hits Antena 1</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210223050000 +0300" stop="20210223070000 +0300" channel="Antena1">
+     <title lang="pt">Day Light</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223130000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210223130000 +0300" stop="20210223180000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223220000 +0300" channel="Antena1">
+     <title lang="pt">Music for you</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224000000 +0300" channel="Antena1">
+     <title lang="pt">Hits Antena 1</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210224050000 +0300" stop="20210224070000 +0300" channel="Antena1">
+     <title lang="pt">Day Light</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224130000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210224130000 +0300" stop="20210224180000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224220000 +0300" channel="Antena1">
+     <title lang="pt">Music for you</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225000000 +0300" channel="Antena1">
+     <title lang="pt">Hits Antena 1</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210225050000 +0300" stop="20210225070000 +0300" channel="Antena1">
+     <title lang="pt">Day Light</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225130000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210225130000 +0300" stop="20210225180000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225220000 +0300" channel="Antena1">
+     <title lang="pt">Music for you</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226000000 +0300" channel="Antena1">
+     <title lang="pt">Hits Antena 1</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226070000 +0300" channel="Antena1">
+     <title lang="pt">Day Light</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226130000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210226130000 +0300" stop="20210226180000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226220000 +0300" channel="Antena1">
+     <title lang="pt">Music for you</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227000000 +0300" channel="Antena1">
+     <title lang="pt">Hits Antena 1</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226050000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210226050000 +0300" stop="20210226120000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227130000 +0300" channel="Antena1">
+     <title lang="pt">Nostálgicos 70, 80, 90</title>
+  </programme>
+  <programme start="20210227130000 +0300" stop="20210227170000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210227170000 +0300" stop="20210227180000 +0300" channel="Antena1">
+     <title lang="pt">As 10+</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227190000 +0300" channel="Antena1">
+     <title lang="pt">Big Hour Live</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227210000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210227210000 +0300" stop="20210227220000 +0300" channel="Antena1">
+     <title lang="pt">Nostálgicos</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228070000 +0300" channel="Antena1">
+     <title lang="pt">Musica Antena1</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210221010000 +0300" stop="20210221070000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221070000 +0300" stop="20210221090000 +0300" channel="RadioRock">
+     <title lang="pt">Corre 89</title>
+  </programme>
+  <programme start="20210221090000 +0300" stop="20210221210000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210221210000 +0300" stop="20210221230000 +0300" channel="RadioRock">
+     <title lang="pt">Pegadas de Andreas Kisser</title>
+  </programme>
+  <programme start="20210221230000 +0300" stop="20210222000000 +0300" channel="RadioRock">
+     <title lang="pt">Freak Show</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210222010000 +0300" stop="20210222090000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222100000 +0300" channel="RadioRock">
+     <title lang="pt">Me Poupe 89</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="RadioRock">
+     <title lang="pt">Do Balacobaco 2.Zé</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222140000 +0300" channel="RadioRock">
+     <title lang="pt">Ramona</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222170000 +0300" channel="RadioRock">
+     <title lang="pt">2 da Tarde</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222190000 +0300" channel="RadioRock">
+     <title lang="pt">Show do Tatola</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222220000 +0300" channel="RadioRock">
+     <title lang="pt">Quem Não Faz Toma!</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223000000 +0300" channel="RadioRock">
+     <title lang="pt">Esquenta</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210223010000 +0300" stop="20210223090000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223100000 +0300" channel="RadioRock">
+     <title lang="pt">Me Poupe 89</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="RadioRock">
+     <title lang="pt">Do Balacobaco 2.Zé</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223140000 +0300" channel="RadioRock">
+     <title lang="pt">Ramona</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223170000 +0300" channel="RadioRock">
+     <title lang="pt">2 da Tarde</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223190000 +0300" channel="RadioRock">
+     <title lang="pt">Show do Tatola</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223220000 +0300" channel="RadioRock">
+     <title lang="pt">Quem Não Faz Toma!</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224000000 +0300" channel="RadioRock">
+     <title lang="pt">Esquenta</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210224010000 +0300" stop="20210224090000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224100000 +0300" channel="RadioRock">
+     <title lang="pt">Me Poupe 89</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="RadioRock">
+     <title lang="pt">Do Balacobaco 2.Zé</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224140000 +0300" channel="RadioRock">
+     <title lang="pt">Ramona</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224170000 +0300" channel="RadioRock">
+     <title lang="pt">2 da Tarde</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224190000 +0300" channel="RadioRock">
+     <title lang="pt">Show do Tatola</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224220000 +0300" channel="RadioRock">
+     <title lang="pt">Quem Não Faz Toma!</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225000000 +0300" channel="RadioRock">
+     <title lang="pt">Esquenta</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210225010000 +0300" stop="20210225090000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225100000 +0300" channel="RadioRock">
+     <title lang="pt">Me Poupe 89</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="RadioRock">
+     <title lang="pt">Do Balacobaco 2.Zé</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225140000 +0300" channel="RadioRock">
+     <title lang="pt">Ramona</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225170000 +0300" channel="RadioRock">
+     <title lang="pt">2 da Tarde</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225190000 +0300" channel="RadioRock">
+     <title lang="pt">Show do Tatola</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225220000 +0300" channel="RadioRock">
+     <title lang="pt">Quem Não Faz Toma!</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226000000 +0300" channel="RadioRock">
+     <title lang="pt">Esquenta</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210226010000 +0300" stop="20210226090000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226100000 +0300" channel="RadioRock">
+     <title lang="pt">Me Poupe 89</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="RadioRock">
+     <title lang="pt">Do Balacobaco 2.Zé</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226140000 +0300" channel="RadioRock">
+     <title lang="pt">Ramona</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226170000 +0300" channel="RadioRock">
+     <title lang="pt">2 da Tarde</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226190000 +0300" channel="RadioRock">
+     <title lang="pt">Show do Tatola</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226220000 +0300" channel="RadioRock">
+     <title lang="pt">Quem Não Faz Toma!</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227000000 +0300" channel="RadioRock">
+     <title lang="pt">Esquenta</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227010000 +0300" channel="RadioRock">
+     <title lang="pt">Heavy Pero no Mucho</title>
+  </programme>
+  <programme start="20210227010000 +0300" stop="20210227140000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227150000 +0300" channel="RadioRock">
+     <title lang="pt">The Rabins</title>
+  </programme>
+  <programme start="20210227150000 +0300" stop="20210227190000 +0300" channel="RadioRock">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227220000 +0300" channel="RadioRock">
+     <title lang="pt">Rock Conection</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="RadioRock">
+     <title lang="pt">Rock´n´Roll Party</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221140000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Samba Nova</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222080000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Nova Manhã</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222200000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Radar Nova Brasil</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223080000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Nova Manhã</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223200000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Radar Nova Brasil</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224080000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Nova Manhã</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224200000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Radar Nova Brasil</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225080000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Nova Manhã</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225200000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Radar Nova Brasil</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226080000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Nova Manhã</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226200000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Radar Nova Brasil</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227000000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Festa Nova</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227140000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Samba Nova</title>
+  </programme>
+  <programme start="20210227160000 +0300" stop="20210227220000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Super Nova</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="NovaBrasilFm">
+     <title lang="pt">Festa Nova</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221140000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210221140000 +0300" stop="20210221150000 +0300" channel="98Live">
+     <title lang="pt">Resenha 98</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221190000 +0300" channel="98Live">
+     <title lang="pt">Jornada 98</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210222060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222070000 +0300" channel="98Live">
+     <title lang="pt">Remela News</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222080000 +0300" channel="98Live">
+     <title lang="pt">No Fundo do Baú</title>
+  </programme>
+  <programme start="20210222080000 +0300" stop="20210222100000 +0300" channel="98Live">
+     <title lang="pt">98 Esportes</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="98Live">
+     <title lang="pt">Central 98</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222140000 +0300" channel="98Live">
+     <title lang="pt">98 Futebol Clube</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222160000 +0300" channel="98Live">
+     <title lang="pt">Os Players</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="98Live">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222190000 +0300" channel="98Live">
+     <title lang="pt">Graffite 98</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222210000 +0300" channel="98Live">
+     <title lang="pt">Arena 98</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222220000 +0300" channel="98Live">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223070000 +0300" channel="98Live">
+     <title lang="pt">Remela News</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223080000 +0300" channel="98Live">
+     <title lang="pt">No Fundo do Baú</title>
+  </programme>
+  <programme start="20210223080000 +0300" stop="20210223100000 +0300" channel="98Live">
+     <title lang="pt">98 Esportes</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="98Live">
+     <title lang="pt">Central 98</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223140000 +0300" channel="98Live">
+     <title lang="pt">98 Futebol Clube</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223160000 +0300" channel="98Live">
+     <title lang="pt">Os Players</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="98Live">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223190000 +0300" channel="98Live">
+     <title lang="pt">Graffite 98</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223210000 +0300" channel="98Live">
+     <title lang="pt">Arena 98</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223220000 +0300" channel="98Live">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224070000 +0300" channel="98Live">
+     <title lang="pt">Remela News</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224080000 +0300" channel="98Live">
+     <title lang="pt">No Fundo do Baú</title>
+  </programme>
+  <programme start="20210224080000 +0300" stop="20210224100000 +0300" channel="98Live">
+     <title lang="pt">98 Esportes</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="98Live">
+     <title lang="pt">Central 98</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224140000 +0300" channel="98Live">
+     <title lang="pt">98 Futebol Clube</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224160000 +0300" channel="98Live">
+     <title lang="pt">Os Players</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="98Live">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224190000 +0300" channel="98Live">
+     <title lang="pt">Graffite 98</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224210000 +0300" channel="98Live">
+     <title lang="pt">Arena 98</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224220000 +0300" channel="98Live">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225070000 +0300" channel="98Live">
+     <title lang="pt">Remela News</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225080000 +0300" channel="98Live">
+     <title lang="pt">No Fundo do Baú</title>
+  </programme>
+  <programme start="20210225080000 +0300" stop="20210225100000 +0300" channel="98Live">
+     <title lang="pt">98 Esportes</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="98Live">
+     <title lang="pt">Central 98</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225140000 +0300" channel="98Live">
+     <title lang="pt">98 Futebol Clube</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225160000 +0300" channel="98Live">
+     <title lang="pt">Os Players</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="98Live">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225190000 +0300" channel="98Live">
+     <title lang="pt">Graffite 98</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225210000 +0300" channel="98Live">
+     <title lang="pt">Arena 98</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225220000 +0300" channel="98Live">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226070000 +0300" channel="98Live">
+     <title lang="pt">Remela News</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226080000 +0300" channel="98Live">
+     <title lang="pt">No Fundo do Baú</title>
+  </programme>
+  <programme start="20210226080000 +0300" stop="20210226100000 +0300" channel="98Live">
+     <title lang="pt">98 Esportes</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="98Live">
+     <title lang="pt">Central 98</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226140000 +0300" channel="98Live">
+     <title lang="pt">98 Futebol Clube</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226160000 +0300" channel="98Live">
+     <title lang="pt">Os Players</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="98Live">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226190000 +0300" channel="98Live">
+     <title lang="pt">Graffite 98</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226210000 +0300" channel="98Live">
+     <title lang="pt">Arena 98</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226220000 +0300" channel="98Live">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227060000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227100000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210227100000 +0300" stop="20210227120000 +0300" channel="98Live">
+     <title lang="pt">Buteco 98</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210228000000 +0300" channel="98Live">
+     <title lang="pt">Rock 98</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221160000 +0300" channel="KissFm">
+     <title lang="pt">ÍDOLOS DO ROCK</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210221210000 +0300" channel="KissFm">
+     <title lang="pt">ROCK SEM FRONTEIRAS</title>
+  </programme>
+  <programme start="20210221210000 +0300" stop="20210221220000 +0300" channel="KissFm">
+     <title lang="pt">KISS IN CONCERT</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210222000000 +0300" channel="KissFm">
+     <title lang="pt">BACKSTAGE</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222100000 +0300" channel="KissFm">
+     <title lang="pt">WAKE UP KISS</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="KissFm">
+     <title lang="pt">AS 10 DA KISS</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222140000 +0300" channel="KissFm">
+     <title lang="pt">GASÔMETRO</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222150000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM PRIMEIRA EDIÇÃO</title>
+  </programme>
+  <programme start="20210222150000 +0300" stop="20210222160000 +0300" channel="KissFm">
+     <title lang="pt">KISS NEW HITS</title>
+  </programme>
+  <programme start="20210222160000 +0300" stop="20210222170000 +0300" channel="KissFm">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222210000 +0300" channel="KissFm">
+     <title lang="pt">ALTERNATIVA KISS</title>
+  </programme>
+  <programme start="20210222210000 +0300" stop="20210222230000 +0300" channel="KissFm">
+     <title lang="pt">KISS ME</title>
+  </programme>
+  <programme start="20210222230000 +0300" stop="20210223000000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM SEGUNDA EDIÇÃO</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223100000 +0300" channel="KissFm">
+     <title lang="pt">WAKE UP KISS</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="KissFm">
+     <title lang="pt">AS 10 DA KISS</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223140000 +0300" channel="KissFm">
+     <title lang="pt">GASÔMETRO</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223150000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM PRIMEIRA EDIÇÃO</title>
+  </programme>
+  <programme start="20210223150000 +0300" stop="20210223160000 +0300" channel="KissFm">
+     <title lang="pt">KISS NEW HITS</title>
+  </programme>
+  <programme start="20210223160000 +0300" stop="20210223170000 +0300" channel="KissFm">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223210000 +0300" channel="KissFm">
+     <title lang="pt">ALTERNATIVA KISS</title>
+  </programme>
+  <programme start="20210223210000 +0300" stop="20210223230000 +0300" channel="KissFm">
+     <title lang="pt">KISS ME</title>
+  </programme>
+  <programme start="20210223230000 +0300" stop="20210224000000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM SEGUNDA EDIÇÃO</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224100000 +0300" channel="KissFm">
+     <title lang="pt">WAKE UP KISS</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="KissFm">
+     <title lang="pt">AS 10 DA KISS</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224140000 +0300" channel="KissFm">
+     <title lang="pt">GASÔMETRO</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224150000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM PRIMEIRA EDIÇÃO</title>
+  </programme>
+  <programme start="20210224150000 +0300" stop="20210224160000 +0300" channel="KissFm">
+     <title lang="pt">KISS NEW HITS</title>
+  </programme>
+  <programme start="20210224160000 +0300" stop="20210224170000 +0300" channel="KissFm">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224210000 +0300" channel="KissFm">
+     <title lang="pt">ALTERNATIVA KISS</title>
+  </programme>
+  <programme start="20210224210000 +0300" stop="20210224230000 +0300" channel="KissFm">
+     <title lang="pt">KISS ME</title>
+  </programme>
+  <programme start="20210224230000 +0300" stop="20210225000000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM SEGUNDA EDIÇÃO</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225100000 +0300" channel="KissFm">
+     <title lang="pt">WAKE UP KISS</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="KissFm">
+     <title lang="pt">AS 10 DA KISS</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225140000 +0300" channel="KissFm">
+     <title lang="pt">GASÔMETRO</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225150000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM PRIMEIRA EDIÇÃO</title>
+  </programme>
+  <programme start="20210225150000 +0300" stop="20210225160000 +0300" channel="KissFm">
+     <title lang="pt">KISS NEW HITS</title>
+  </programme>
+  <programme start="20210225160000 +0300" stop="20210225170000 +0300" channel="KissFm">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225210000 +0300" channel="KissFm">
+     <title lang="pt">ALTERNATIVA KISS</title>
+  </programme>
+  <programme start="20210225210000 +0300" stop="20210225230000 +0300" channel="KissFm">
+     <title lang="pt">KISS ME</title>
+  </programme>
+  <programme start="20210225230000 +0300" stop="20210226000000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM SEGUNDA EDIÇÃO</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226100000 +0300" channel="KissFm">
+     <title lang="pt">WAKE UP KISS</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="KissFm">
+     <title lang="pt">AS 10 DA KISS</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226140000 +0300" channel="KissFm">
+     <title lang="pt">GASÔMETRO</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226150000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM PRIMEIRA EDIÇÃO</title>
+  </programme>
+  <programme start="20210226150000 +0300" stop="20210226160000 +0300" channel="KissFm">
+     <title lang="pt">KISS NEW HITS</title>
+  </programme>
+  <programme start="20210226160000 +0300" stop="20210226170000 +0300" channel="KissFm">
+     <title lang="pt">Rock News</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226210000 +0300" channel="KissFm">
+     <title lang="pt">ALTERNATIVA KISS</title>
+  </programme>
+  <programme start="20210226210000 +0300" stop="20210226230000 +0300" channel="KissFm">
+     <title lang="pt">KISS ME</title>
+  </programme>
+  <programme start="20210226230000 +0300" stop="20210227000000 +0300" channel="KissFm">
+     <title lang="pt">KISS.COM SEGUNDA EDIÇÃO</title>
+  </programme>
+  <programme start="20210227000000 +0300" stop="20210227060000 +0300" channel="KissFm">
+     <title lang="pt">MADRUGADA KISS</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227150000 +0300" channel="KissFm">
+     <title lang="pt">KISSFM</title>
+  </programme>
+  <programme start="20210227150000 +0300" stop="20210227180000 +0300" channel="KissFm">
+     <title lang="pt">NAÇÃO ROQUEIRA</title>
+  </programme>
+  <programme start="20210227180000 +0300" stop="20210227190000 +0300" channel="KissFm">
+     <title lang="pt">ROCK CINE</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227220000 +0300" channel="KissFm">
+     <title lang="pt">Don't Stop</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228000000 +0300" channel="KissFm">
+     <title lang="pt">KISS SEM FRONTEIRA</title>
+  </programme>
+  <programme start="20210221000000 +0300" stop="20210221040000 +0300" channel="SerraDourada">
+     <title lang="pt">Madrugada na Serra</title>
+  </programme>
+  <programme start="20210221040000 +0300" stop="20210221080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210221080000 +0300" stop="20210221100000 +0300" channel="SerraDourada">
+     <title lang="pt">Flash Back</title>
+  </programme>
+  <programme start="20210221100000 +0300" stop="20210221120000 +0300" channel="SerraDourada">
+     <title lang="pt">Ritmo Quente</title>
+  </programme>
+  <programme start="20210221120000 +0300" stop="20210221160000 +0300" channel="SerraDourada">
+     <title lang="pt">Agitação</title>
+  </programme>
+  <programme start="20210221160000 +0300" stop="20210221200000 +0300" channel="SerraDourada">
+     <title lang="pt">Território Sertanejo</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210222000000 +0300" channel="SerraDourada">
+     <title lang="pt">Sunday Night</title>
+  </programme>
+  <programme start="20210222000000 +0300" stop="20210222040000 +0300" channel="SerraDourada">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210222040000 +0300" stop="20210222080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210222080000 +0300" stop="20210222110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210222110000 +0300" stop="20210222120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222180000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222190000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 2° Edição</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222200000 +0300" channel="SerraDourada">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210223000000 +0300" channel="SerraDourada">
+     <title lang="pt">Oito Horas de Amor</title>
+  </programme>
+  <programme start="20210223000000 +0300" stop="20210223040000 +0300" channel="SerraDourada">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210223040000 +0300" stop="20210223080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210223080000 +0300" stop="20210223110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210223110000 +0300" stop="20210223120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223180000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223190000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 2° Edição</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223200000 +0300" channel="SerraDourada">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210224000000 +0300" channel="SerraDourada">
+     <title lang="pt">Oito Horas de Amor</title>
+  </programme>
+  <programme start="20210224000000 +0300" stop="20210224040000 +0300" channel="SerraDourada">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210224040000 +0300" stop="20210224080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210224080000 +0300" stop="20210224110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210224110000 +0300" stop="20210224120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224180000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224190000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 2° Edição</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224200000 +0300" channel="SerraDourada">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210225000000 +0300" channel="SerraDourada">
+     <title lang="pt">Oito Horas de Amor</title>
+  </programme>
+  <programme start="20210225000000 +0300" stop="20210225040000 +0300" channel="SerraDourada">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210225040000 +0300" stop="20210225080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210225080000 +0300" stop="20210225110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210225110000 +0300" stop="20210225120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225180000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225190000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 2° Edição</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225200000 +0300" channel="SerraDourada">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210226000000 +0300" channel="SerraDourada">
+     <title lang="pt">Oito Horas de Amor</title>
+  </programme>
+  <programme start="20210226000000 +0300" stop="20210226040000 +0300" channel="SerraDourada">
+     <title lang="pt">Programação Musical</title>
+  </programme>
+  <programme start="20210226040000 +0300" stop="20210226080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210226080000 +0300" stop="20210226110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210226110000 +0300" stop="20210226120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226180000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226190000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 2° Edição</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226200000 +0300" channel="SerraDourada">
+     <title lang="pt">A VOZ DO BRASIL</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210227040000 +0300" channel="SerraDourada">
+     <title lang="pt">Oito Horas de Amor</title>
+  </programme>
+  <programme start="20210227040000 +0300" stop="20210227080000 +0300" channel="SerraDourada">
+     <title lang="pt">Café com Leite</title>
+  </programme>
+  <programme start="20210227080000 +0300" stop="20210227110000 +0300" channel="SerraDourada">
+     <title lang="pt">Show da Cidade</title>
+  </programme>
+  <programme start="20210227110000 +0300" stop="20210227120000 +0300" channel="SerraDourada">
+     <title lang="pt">As Mais Mais 1ª Edição</title>
+  </programme>
+  <programme start="20210227120000 +0300" stop="20210227140000 +0300" channel="SerraDourada">
+     <title lang="pt">Falando de Amor</title>
+  </programme>
+  <programme start="20210227140000 +0300" stop="20210227160000 +0300" channel="SerraDourada">
+     <title lang="pt">Tocando Sucesso</title>
+  </programme>
+  <programme start="20210227160000 +0300" stop="20210227183000 +0300" channel="SerraDourada">
+     <title lang="pt">De Carona com a Serra Dourada</title>
+  </programme>
+  <programme start="20210227183000 +0300" stop="20210227200000 +0300" channel="SerraDourada">
+     <title lang="pt">As 20 Mais da Semana</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210228000000 +0300" channel="SerraDourada">
+     <title lang="pt">Balada na Serra Dourada</title>
+  </programme>
+  <programme start="20210222060000 +0300" stop="20210222070000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210222070000 +0300" stop="20210222090000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light News</title>
+  </programme>
+  <programme start="20210222090000 +0300" stop="20210222100000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210222100000 +0300" stop="20210222120000 +0300" channel="TransamericaLight">
+     <title lang="pt">Rock Light</title>
+  </programme>
+  <programme start="20210222120000 +0300" stop="20210222140000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Express</title>
+  </programme>
+  <programme start="20210222140000 +0300" stop="20210222150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210222150000 +0300" stop="20210222170000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light No Esporte</title>
+  </programme>
+  <programme start="20210222170000 +0300" stop="20210222180000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sintonia Light</title>
+  </programme>
+  <programme start="20210222180000 +0300" stop="20210222190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Conexão Light</title>
+  </programme>
+  <programme start="20210222190000 +0300" stop="20210222200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210222200000 +0300" stop="20210222203000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210222203000 +0300" stop="20210222220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210222220000 +0300" stop="20210223060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210223060000 +0300" stop="20210223070000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210223070000 +0300" stop="20210223090000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light News</title>
+  </programme>
+  <programme start="20210223090000 +0300" stop="20210223100000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210223100000 +0300" stop="20210223120000 +0300" channel="TransamericaLight">
+     <title lang="pt">Rock Light</title>
+  </programme>
+  <programme start="20210223120000 +0300" stop="20210223140000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Express</title>
+  </programme>
+  <programme start="20210223140000 +0300" stop="20210223150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210223150000 +0300" stop="20210223170000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light No Esporte</title>
+  </programme>
+  <programme start="20210223170000 +0300" stop="20210223180000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sintonia Light</title>
+  </programme>
+  <programme start="20210223180000 +0300" stop="20210223190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Conexão Light</title>
+  </programme>
+  <programme start="20210223190000 +0300" stop="20210223200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210223200000 +0300" stop="20210223203000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210223203000 +0300" stop="20210223220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210223220000 +0300" stop="20210224060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210224060000 +0300" stop="20210224070000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210224070000 +0300" stop="20210224090000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light News</title>
+  </programme>
+  <programme start="20210224090000 +0300" stop="20210224100000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210224100000 +0300" stop="20210224120000 +0300" channel="TransamericaLight">
+     <title lang="pt">Rock Light</title>
+  </programme>
+  <programme start="20210224120000 +0300" stop="20210224140000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Express</title>
+  </programme>
+  <programme start="20210224140000 +0300" stop="20210224150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210224150000 +0300" stop="20210224170000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light No Esporte</title>
+  </programme>
+  <programme start="20210224170000 +0300" stop="20210224180000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sintonia Light</title>
+  </programme>
+  <programme start="20210224180000 +0300" stop="20210224190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Conexão Light</title>
+  </programme>
+  <programme start="20210224190000 +0300" stop="20210224200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210224200000 +0300" stop="20210224203000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210224203000 +0300" stop="20210224220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210224220000 +0300" stop="20210225060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210225060000 +0300" stop="20210225070000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210225070000 +0300" stop="20210225090000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light News</title>
+  </programme>
+  <programme start="20210225090000 +0300" stop="20210225100000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210225100000 +0300" stop="20210225120000 +0300" channel="TransamericaLight">
+     <title lang="pt">Rock Light</title>
+  </programme>
+  <programme start="20210225120000 +0300" stop="20210225140000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Express</title>
+  </programme>
+  <programme start="20210225140000 +0300" stop="20210225150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210225150000 +0300" stop="20210225170000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light No Esporte</title>
+  </programme>
+  <programme start="20210225170000 +0300" stop="20210225180000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sintonia Light</title>
+  </programme>
+  <programme start="20210225180000 +0300" stop="20210225190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Conexão Light</title>
+  </programme>
+  <programme start="20210225190000 +0300" stop="20210225200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210225200000 +0300" stop="20210225203000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210225203000 +0300" stop="20210225220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210225220000 +0300" stop="20210226060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210226060000 +0300" stop="20210226070000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210226070000 +0300" stop="20210226090000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light News</title>
+  </programme>
+  <programme start="20210226090000 +0300" stop="20210226100000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210226100000 +0300" stop="20210226120000 +0300" channel="TransamericaLight">
+     <title lang="pt">Rock Light</title>
+  </programme>
+  <programme start="20210226120000 +0300" stop="20210226140000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Express</title>
+  </programme>
+  <programme start="20210226140000 +0300" stop="20210226150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210226150000 +0300" stop="20210226170000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light No Esporte</title>
+  </programme>
+  <programme start="20210226170000 +0300" stop="20210226180000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sintonia Light</title>
+  </programme>
+  <programme start="20210226180000 +0300" stop="20210226190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Conexão Light</title>
+  </programme>
+  <programme start="20210226190000 +0300" stop="20210226200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210226200000 +0300" stop="20210226203000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210226203000 +0300" stop="20210226220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210226220000 +0300" stop="20210227060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210227060000 +0300" stop="20210227150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210227150000 +0300" stop="20210227190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Nova Geração Light</title>
+  </programme>
+  <programme start="20210227190000 +0300" stop="20210227200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210227200000 +0300" stop="20210227210000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210227210000 +0300" stop="20210227220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210227220000 +0300" stop="20210228060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+  <programme start="20210221060000 +0300" stop="20210221150000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210221150000 +0300" stop="20210221190000 +0300" channel="TransamericaLight">
+     <title lang="pt">Nova Geração Light</title>
+  </programme>
+  <programme start="20210221190000 +0300" stop="20210221200000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210221200000 +0300" stop="20210221210000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Fm Brasil</title>
+  </programme>
+  <programme start="20210221210000 +0300" stop="20210221220000 +0300" channel="TransamericaLight">
+     <title lang="pt">Sequencia Light</title>
+  </programme>
+  <programme start="20210221220000 +0300" stop="20210222060000 +0300" channel="TransamericaLight">
+     <title lang="pt">Light Classics</title>
+  </programme>
+ </tv>
